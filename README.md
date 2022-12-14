@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @titanckw
-- 👀 I’m interested in being a Software Engineer
-- 🌱 I’m currently learning C
-<!---
-titanckw/titanckw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+The simple calculator code is simple to run.
+Immediately after you run the program, a dialog box pops up and asks you to enter the "Operator".
+When you key in the operator i.e. (-, *, +, /), it prompts you to key in two numbers, One by One. 
+It will calculate the Numbers according to which operator you chose.
+It will give you the results.
+To exit, just use any key.
