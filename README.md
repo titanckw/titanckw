@@ -1,5 +1,3 @@
-![TitanCKW's GitHub Banner](https://source.unsplash.com/1600x400/?technology,code)
-
 # 👋 Hi, I'm **TitanCKW**!
 
 🚀 **Tech Entrepreneur | Software Development | Chef **
