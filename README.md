@@ -32,4 +32,4 @@ I specialize in **SaaS** and **Front-End Development**, helping businesses strea
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-💬 **Feel free to reach out if you want to collaborate or need BPO/software development services!** 🚀
+💬 **Feel free to reach out if you want to collaborate or need software development services!** 🚀
