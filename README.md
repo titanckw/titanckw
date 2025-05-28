@@ -19,7 +19,7 @@ I specialize in **SaaS** and **Front-End Development**, helping businesses strea
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Typescript](https://img.shields.io/badge/Typescript-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 
 ## 📈 GitHub Stats
 
